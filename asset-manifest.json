@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fangqq/static/css/main.eb4e5680.css",
-    "main.js": "/fangqq/static/js/main.7e67c667.js",
+    "main.css": "/fangqq/static/css/main.133ae706.css",
+    "main.js": "/fangqq/static/js/main.4bc63e9a.js",
     "static/js/453.5fbd8385.chunk.js": "/fangqq/static/js/453.5fbd8385.chunk.js",
     "index.html": "/fangqq/index.html",
-    "main.eb4e5680.css.map": "/fangqq/static/css/main.eb4e5680.css.map",
-    "main.7e67c667.js.map": "/fangqq/static/js/main.7e67c667.js.map",
+    "main.133ae706.css.map": "/fangqq/static/css/main.133ae706.css.map",
+    "main.4bc63e9a.js.map": "/fangqq/static/js/main.4bc63e9a.js.map",
     "453.5fbd8385.chunk.js.map": "/fangqq/static/js/453.5fbd8385.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb4e5680.css",
-    "static/js/main.7e67c667.js"
+    "static/css/main.133ae706.css",
+    "static/js/main.4bc63e9a.js"
   ]
 }
